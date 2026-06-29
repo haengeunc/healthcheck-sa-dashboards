@@ -1,0 +1,2 @@
+# Large Dashboards
+This dashboard contains a single tile containing a merged query which joins Dashboards with over 25 tiles with the number of queries they have generated. If a dashboard does not have a query value assocated with it then that dashboard falls outside the top 5,000 dashboards by query count and can be deprioritised for optimisation. 
